@@ -1,0 +1,36 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>HighAI.png</file>
+        <file>LowAI.png</file>
+        <file>MidAI.png</file>
+        <file>default_bgi.png</file>
+        <file>default_black.png</file>
+        <file>default_white.png</file>
+        <file>default_board.png</file>
+        <file>default_blackChess.png</file>
+        <file>default_whiteChess.png</file>
+        <file>blackRobot.png</file>
+        <file>whiteRobot.png</file>
+        <file>readIcon.png</file>
+        <file>saveIcon.png</file>
+        <file>exit.png</file>
+        <file>blueButton.png</file>
+        <file>start_bgi.png</file>
+        <file>blueStartButton.png</file>
+        <file>vsIcon.png</file>
+        <file>unknown.png</file>
+        <file>gameIcon.png</file>
+        <file>Myself.PNG</file>
+        <file>NULL.png</file>
+        <file>江南.PNG</file>
+        <file>赵亮.PNG</file>
+        <file>qt.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>chessone.wav</file>
+        <file>lose.wav</file>
+        <file>win.wav</file>
+        <file>regret.wav</file>
+        <file>count.wav</file>
+    </qresource>
+</RCC>
